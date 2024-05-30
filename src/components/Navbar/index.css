@@ -1,0 +1,14 @@
+.popup-content {
+  border-radius: 10px;
+  width: 25%;
+  background-color: #ffffff;
+}
+
+.dark {
+  background-color: #181818;
+}
+
+.sun {
+  color: #ffffff;
+  font-size: 20px;
+}
